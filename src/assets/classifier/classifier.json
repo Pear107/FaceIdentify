@@ -1,0 +1,8 @@
+{
+  "0":"haarcascade_frontalface_alt.xml",
+  "1":"haarcascade_eye.xml",
+  "2":"haarcascade_mcs_mouth.xml",
+  "3":"haarcascade_mcs_nose.xml",
+  "4":"haarcascade_mcs_leftear.xml",
+  "5":"haarcascade_mcs_rightear.xml"
+}

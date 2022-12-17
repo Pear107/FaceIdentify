@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>view/Main.qml</file>
+        <file>view/FaceTable.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>assets/icon/logo.png</file>
+        <file>assets/icon/remove.png</file>
+        <file>assets/classifier/classifier.json</file>
+        <file>assets/cover/glasses.jpg</file>
+        <file>assets/cover/mask.jpg</file>
+        <file>assets/cover/redNose.jpg</file>
+    </qresource>
+</RCC>
